@@ -17,7 +17,7 @@ namespace Injector {
 			CloseHandle(hProc);
 
 
-			exit(-12); // close the injector (optional)
+			exit(-12); // closes the injector (optional)
 		}
 	}
 }
